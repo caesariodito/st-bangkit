@@ -1,6 +1,6 @@
 # Choosing Activiation Function on Neural Network
 
-![screenshot](E:\Projects\bangkit-machine-learning-specialization\others\choosing-activation-func.png)
+![screenshot](choosing-activation-func.png)
 
 know the 'y' value for the output
 
@@ -10,4 +10,4 @@ ReLU is a faster learning than sigmoid function
 
 Syntax:
 
-![screenshot](E:\Projects\bangkit-machine-learning-specialization\others\how-to-implement-act-func.png)
+![screenshot](how-to-implement-act-func.png)
